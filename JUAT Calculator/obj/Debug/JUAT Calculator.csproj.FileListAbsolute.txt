@@ -1,0 +1,9 @@
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\bin\Debug\JUAT Calculator.exe.config
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\bin\Debug\JUAT Calculator.exe
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\bin\Debug\JUAT Calculator.pdb
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\obj\Debug\JUAT Calculator.csprojAssemblyReference.cache
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\obj\Debug\JUAT_Calculator.Properties.Resources.resources
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\obj\Debug\JUAT Calculator.csproj.GenerateResource.cache
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\obj\Debug\JUAT Calculator.exe
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\obj\Debug\JUAT Calculator.pdb
+C:\Users\marie\Desktop\Microsoft Visual Studio\JUAT Calculator\obj\Debug\JUAT_Calculator.Calculator.resources
